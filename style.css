@@ -112,7 +112,7 @@ p {
   margin-left: 20px;
   display: flex;
   flex-direction: row;
-  margin-bottom: 32px;
+  padding-bottom: 32px;
 }
 
 .info__mail {
